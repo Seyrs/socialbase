@@ -1,5 +1,5 @@
 header {
-    color: rgb(57, 201, 133);
+    color: rgb(160, 87, 223);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 60px;
     font-style: italic;
@@ -12,7 +12,7 @@ header {
     font-style: italic;
 }
 html {
-    background-color:palegreen;
+    background-color:rgb(158, 247, 158);
     display: flex;
 
 }
