@@ -1,0 +1,64 @@
+header {
+    color: rgb(57, 201, 133);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    font-style: italic;
+}
+
+
+#username {
+    color: green;
+    font-size: 12px;
+    font-style: italic;
+}
+html {
+    background-color:palegreen;
+    display: flex;
+
+}
+.container1 {
+    display: flex;
+}
+.container2 {
+    display: flex;
+}
+#entryBox {
+        display: flex;
+        
+}
+input[type="text"], textarea {
+  
+    background-color : rgb(153, 175, 153); 
+  
+  }
+
+.press {
+    display: flex;
+    align-items: flex-end;
+}
+#btn {
+    background-color: rgb(240, 183, 77);
+}
+
+#delete {
+    background-color: rgb(211, 35, 35);
+}
+
+#btn3 {
+    background-color: rgb(63, 63, 231);
+}
+.name {
+    font-size: 30px;
+    color: blueviolet;
+    text-align: center;
+    
+}
+#output {
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    border: 3px 5px 3px 5px;
+    border-color: green;
+    
+
+}
